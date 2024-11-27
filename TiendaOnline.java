@@ -7,6 +7,7 @@ public class TiendaOnline {
     El programa debe permitir al usuario agregar productos a un carrito de compras, ver el total de la compra y finalizar la compra.
     Cada producto tiene un nombre y un precio. El programa debe mostrar una lista de productos disponibles para que el usuario elija.
      */
+// NUEBA PRUEBA COMMIT
 
     private static final int MAX_PRODUCTOS = 10;
     private static String[] nombresProductos = new String[MAX_PRODUCTOS];
